@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "259805036604",
+    "firebase_url": "https://august-us.firebaseio.com",
+    "project_id": "august-us",
+    "storage_bucket": "august-us.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259805036604:android:8c47dc40a3fc405c734339",
+        "android_client_info": {
+          "package_name": "com.argus.argus_sih"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259805036604-t0cldd06e81ot3fof6cu00b8klctj060.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.argus.argus_sih",
+            "certificate_hash": "a58bc8eeec52eb64e94523a57dfa778bc584dd0a"
+          }
+        },
+        {
+          "client_id": "259805036604-dkgknc1e78fmdvtiglo31d3kh8j8hj84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqwSNkSOVU0JAlh-LzKdjF3prZDcQlv2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259805036604-dkgknc1e78fmdvtiglo31d3kh8j8hj84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
